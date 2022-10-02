@@ -1,2 +1,2 @@
-# Car-Metaverse
- This is a Web3.0 app made using three js and react fibre library for metaverse experience
+# React-Metaverse
+ This is a 3d model made using react fiber and three js for example of metaverse
